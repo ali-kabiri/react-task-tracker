@@ -1,0 +1,5 @@
+{
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "editor.inlineSuggest.showToolbar": "onHover"
+}
